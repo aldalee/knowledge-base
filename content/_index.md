@@ -9,9 +9,9 @@ layout: hextra-home
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
-<div class="mt-6 mb-6">
+<div class="mt-6 mb-6 text-center">
 {{< hextra/hero-headline >}}
-  Build modern websites&nbsp;<br class="sm:block hidden" />with Markdown and Hugo
+  你好啊&nbsp;<br class="sm:block hidden" />with Markdown and Hugo
 {{< /hextra/hero-headline >}}
 </div>
 

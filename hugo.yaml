@@ -27,7 +27,7 @@ languages:
     languageCode: zh-CN
     weight: 2
     title: Hextra
-    
+
 markup:
   goldmark:
     renderer:
@@ -61,7 +61,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/aldalee"
       params:
         icon: github
 
