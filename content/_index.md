@@ -2,17 +2,20 @@
 title: Hextra Theme
 layout: hextra-home
 ---
+<div class="mt-6"></div>
 
 <div style="margin: auto; text-align: center;">
 
+<!-- add website background image -->
 <img src="images/infinity.svg" style="zoom:20%"/>
 
+<!-- website title -->
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
   Build Modern Websites&nbsp;<br class="sm:block hidden" />
 {{< /hextra/hero-headline >}}
 </div>
-
+<!-- website badge -->
 {{< hextra/hero-badge >}}
   <div class="w-2 h-2 rounded-full bg-primary-400"></div>
   <span>Free, open source</span>
@@ -25,19 +28,14 @@ layout: hextra-home
 
 <div class="mt-6"></div>
 
+<!-- website subtitle -->
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
   Fast, batteries-included Hugo theme&nbsp;<br class="sm:block hidden" />for creating beautiful static websites
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<!-- <img src="images/img.png" style="zoom:60%"/> -->
-<!-- <img src="images/img.jpg" style="zoom:60%"/> -->
-
-
 </div>
-
-<div class="mt-6"></div>
 
 <!-- {{< hextra/feature-grid >}}
   {{< hextra/feature-card
