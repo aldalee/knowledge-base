@@ -3,20 +3,15 @@ title: Hextra Theme
 layout: hextra-home
 ---
 
-
-
-
 <div style="margin: auto; text-align: center;">
 
 <img src="images/infinity.svg" style="zoom:20%"/>
 
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-  Build modern websites&nbsp;<br class="sm:block hidden" />
+  Build Modern Websites&nbsp;<br class="sm:block hidden" />
 {{< /hextra/hero-headline >}}
 </div>
-
-
 
 {{< hextra/hero-badge >}}
   <div class="w-2 h-2 rounded-full bg-primary-400"></div>
