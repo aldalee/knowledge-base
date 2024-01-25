@@ -40,7 +40,7 @@ enableInlineShortcodes: true
 menu:
   main:
     - identifier: documentation
-      name: Documentation
+      name: Docs
       pageRef: /docs
       weight: 1
     - identifier: english

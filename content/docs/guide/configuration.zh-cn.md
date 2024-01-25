@@ -18,7 +18,7 @@ Hugo 从 Hugo 网站根目录下的 `hugo.yaml` 读取配置。
 ```yaml {filename="hugo.yaml"}
 menu:
   main:
-    - name: Documentation
+    - name: Docs
       pageRef: /docs
       weight: 1
     - name: Blog
@@ -42,7 +42,7 @@ menu:
 
 1. Link to a page in the site with `pageRef`
     ```yaml
-    - name: Documentation
+    - name: Docs
       pageRef: /docs
     ```
 2. Link to an external URL with `url`

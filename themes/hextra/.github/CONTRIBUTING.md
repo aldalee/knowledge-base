@@ -7,7 +7,7 @@
 
 - [Guidelines](#guidelines)
   - [Contributing Code](#contributing-code)
-  - [Contributing Documentation](#contributing-documentation)
+  - [Contributing Docs](#contributing-documentation)
   - [💬 GitHub Discussions](#-github-discussions)
   - [GitHub Issues](#github-issues)
 - [Development](#development)

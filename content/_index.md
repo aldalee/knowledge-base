@@ -2,7 +2,7 @@
 title: Hextra Theme
 layout: hextra-home
 ---
-<div class="mt-6"></div>
+<!-- <div class="mt-6"></div> -->
 
 <div style="margin: auto; text-align: center;">
 
@@ -12,13 +12,14 @@ layout: hextra-home
 <!-- website title -->
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-  Build Modern Websites&nbsp;<br class="sm:block hidden" />
+ Traveling Light, Enjoying Life&nbsp;<br class="sm:block hidden" />
 {{< /hextra/hero-headline >}}
 </div>
+
 <!-- website badge -->
 {{< hextra/hero-badge >}}
   <div class="w-2 h-2 rounded-full bg-primary-400"></div>
-  <span>Free, open source</span>
+  <span>Free, digital system</span>
   {{< icon name="arrow-circle-right" attributes="height=30" >}}
 {{< /hextra/hero-badge >}}
 
@@ -31,7 +32,7 @@ layout: hextra-home
 <!-- website subtitle -->
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Fast, batteries-included Hugo theme&nbsp;<br class="sm:block hidden" />for creating beautiful static websites
+  Truth needs no colour; &nbsp;<br class="sm:block hidden" />beauty, no pencil.
 {{< /hextra/hero-subtitle >}}
 </div>
 

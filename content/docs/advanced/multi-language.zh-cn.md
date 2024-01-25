@@ -50,7 +50,7 @@ Hugo 支持按文件名管理翻译。例如，如果我们有一个英文文件
 menu:
   main:
     - identifier: documentation
-      name: Documentation
+      name: Docs
       pageRef: /docs
       weight: 1
     - identifier: blog

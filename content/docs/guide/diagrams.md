@@ -50,4 +50,4 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-For more information, please refer to [Mermaid Documentation](https://mermaid-js.github.io/mermaid/#/).
+For more information, please refer to [Mermaid Docs](https://mermaid-js.github.io/mermaid/#/).

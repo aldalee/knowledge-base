@@ -50,7 +50,7 @@ To translate menu items in the navigation bar, we need to set the `identifier` f
 menu:
   main:
     - identifier: documentation
-      name: Documentation
+      name: Docs
       pageRef: /docs
       weight: 1
     - identifier: blog
