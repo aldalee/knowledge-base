@@ -3,17 +3,32 @@ title: Hextra Theme
 layout: hextra-home
 ---
 
+
+
+
+<div style="margin: auto; text-align: center;">
+
+<img src="images/infinity.svg" style="zoom:20%"/>
+
+<div class="mt-6 mb-6">
+{{< hextra/hero-headline >}}
+  Build modern websites&nbsp;<br class="sm:block hidden" />
+{{< /hextra/hero-headline >}}
+</div>
+
+
+
 {{< hextra/hero-badge >}}
   <div class="w-2 h-2 rounded-full bg-primary-400"></div>
   <span>Free, open source</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+  {{< icon name="arrow-circle-right" attributes="height=30" >}}
 {{< /hextra/hero-badge >}}
 
-<div class="mt-6 mb-6 text-center">
-{{< hextra/hero-headline >}}
-  你好啊&nbsp;<br class="sm:block hidden" />with Markdown and Hugo
-{{< /hextra/hero-headline >}}
-</div>
+<!-- <div class="mb-6">
+{{< hextra/hero-button text="Get Started" link="docs" >}}
+</div> -->
+
+<div class="mt-6"></div>
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
@@ -21,13 +36,15 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="mb-6">
-{{< hextra/hero-button text="Get Started" link="docs" >}}
+<!-- <img src="images/img.png" style="zoom:60%"/> -->
+<!-- <img src="images/img.jpg" style="zoom:60%"/> -->
+
+
 </div>
 
 <div class="mt-6"></div>
 
-{{< hextra/feature-grid >}}
+<!-- {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Fast and Full-featured"
     subtitle="Simple and easy to use, yet powerful and feature-rich."
@@ -73,4 +90,4 @@ layout: hextra-home
     icon="sparkles"
     subtitle="Syntax highlighting / Table of contents / SEO / RSS / LaTeX / Mermaid / Customizable / and more..."
   >}}
-{{< /hextra/feature-grid >}}
+{{< /hextra/feature-grid >}} -->
